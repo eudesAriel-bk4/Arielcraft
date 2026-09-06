@@ -15,7 +15,7 @@ Como Instalar o ArielCraft no Launcher Minecraft
 6. Vá em Nova Instalação
 7. clique em Diretório do Jogo e vá em Buscar
 8. Substitua o diretório atual(se não for do Minecraft) por "C:\Usuários\seu Usuário\Appdata\Roaming\.minecraft\versions\arielcraft-1.0-snapshot-{number}"
-9. em "Versão", Escolha: release fabric-loader-0.19.3-26.2 (se Não tiver o fabric instalado, instale em https://fabricmc.net/use/installer/ e a versão Escolha a versão atual 26.2)
+9. em "Versão", Escolha: release fabric-loader-0.19.3-26.2(para arielcraft 1.0 snapshot-1 até 1.0-snapshot-2) (se Não tiver o fabric instalado, instale em https://fabricmc.net/use/installer/ e a versão Escolha a versão atual 26.2)
 10. clique em "Iniciar após a Instalação" e Depois em Instalar
 11. - Opcional: coloque o Nome da Instalação/jogo
 
